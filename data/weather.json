@@ -31,17 +31,17 @@
   "clouds": {
     "all": 100
   },
-  "dt": 1787954067,
+  "dt": 1787954485,
   "sys": {
     "type": 2,
     "id": 2094972,
     "country": "NO",
-    "sunrise": 1787889748,
-    "sunset": 1787942078
+    "sunrise": 1787976289,
+    "sunset": 1788028300
   },
   "timezone": 7200,
   "id": 3143244,
   "name": "Oslo",
   "cod": 200,
-  "_last_updated_utc": "2026-08-28T21:54:27.254Z"
+  "_last_updated_utc": "2026-08-28T22:03:05.604Z"
 }
